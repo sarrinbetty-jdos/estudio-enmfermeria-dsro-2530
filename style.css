@@ -1,0 +1,14 @@
+body, h1, h2, h3, h4, h5, h6 {
+    font-size: 15px;
+}
+h1, h2, caption {
+    color:darkgreen
+}
+h3, h4, h5, h6, strong, th {
+    color:green
+}
+th {
+    border-width: 2px;
+    border-color: darkgreen;
+    border-style:groove
+}
